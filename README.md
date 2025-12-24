@@ -64,16 +64,13 @@
 
 <h2 align="left">GitHub Stats📊</h2>
 
-<p alingn="left">
- <img height="170" src="https://
-   github-readme-stats.vercel.app/api?
-   username=michael-PSTL&show_icons=true&t
-   heme=tokyonight&count_private=true"/>
- <img height="170" src="https://
-   github-readme-stats.vercel.app/api/top-langs/?
-   username=michael-PSTL%layout=compact&
-   theme=tokyonight"/>
-</p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michael-PSTL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=michael-PSTL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ###
 
 <h3 align="center">Bye👋</h3>
