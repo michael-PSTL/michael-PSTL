@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/pasteuu._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://wa.me/5598984975025?text=Olá,%20fiquei%20interessado%20no%20seu%20trabalho%20como%20programador!" target="_blank">
+  <a href="https://wa.me/5598984975025?text=Ol%C3%A1%F0%9F%91%8B%2C%20fiquei%20interessado%20no%20seu%20trabalho%20como%20programador!" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
@@ -34,20 +34,46 @@
 
 ###
 
+<h3 align="left">Back-End⚙️</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="75" alt="java logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="75" alt="spring logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="75" alt="mysql logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="75" alt="javascript logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="75" alt="html5 logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75" alt="css logo"  />
 </div>
 
+###
+
+<h3 align="left">Front-End🌐</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+</div>
+
+###
+
+<h2 align="left">GitHub Stats📊</h2>
+
+<p alingn="left">
+ <img height="170" src="https://
+   github-readme-stats.vercel.app/api?
+   username=michael-PSTL&show_icons=true&t
+   heme=tokyonight&count_private=true"/>
+ <img height="170" src="https://
+   github-readme-stats.vercel.app/api/top-langs/?
+   username=michael-PSTL%layout=compact&
+   theme=tokyonight"/>
+</p>
 ###
 
 <h3 align="center">Bye👋</h3>
