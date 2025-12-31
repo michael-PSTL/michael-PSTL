@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/pasteuu._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://wa.me/5598984975025?text=Ol%C3%A1%F0%9F%91%8B%2C%20fiquei%20interessado%20no%20seu%20trabalho%20como%20programador!" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=5598984975025&text=Ol%C3%A1%2C+fiquei+interessado+no+seu+trabalho+como+programador%21&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
