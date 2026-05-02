@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=michael-PSTL&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=michael-PSTL&show_icons=true&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true"/>
 
 </div>
 
