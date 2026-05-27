@@ -1,3 +1,31 @@
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:161b22&text=Michael%20Silva%20Soares&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Brazil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=56&descSize=16&animation=fadeIn"/>
+</div>
+
+---
+
+## 👋 Hi, I'm Michael
+
+Passionate about technology and software development, focused on building modern, efficient and scalable solutions. Constantly learning, open to opportunities, freelance projects and collaborations.
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,spring,mysql&theme=dark" />
+</div>
+
+---
+
+## 🛠️ Tools
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" />
+</div>
+
+---
+
 ## 🌐 Connect with me
 
 <div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
@@ -14,4 +42,18 @@
 <img src="https://img.shields.io/badge/Instagram-ffa07a?style=for-the-badge&logo=instagram&logoColor=ffffff"/>
 </a>
 
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/michael-PSTL/michael-PSTL/output/snake.svg" alt="Snake animation"/>
+</div>
+
+---
+
+<div align="center">
+Thanks for visiting 🤍
 </div>
