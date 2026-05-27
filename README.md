@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:161b22&text=Michael%20Silva%20Soares&fontColor=58a6ff&fontSize=40&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Brazil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=56&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,100:161b22&text=Michael%20Silva%20Soares&fontColor=ffffff&fontSize=40&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Brazil%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=56&descSize=16&animation=fadeIn"/>
 </div>
 
 ---
@@ -26,30 +26,26 @@ Passionate about technology and software development, focused on building modern
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=michael-PSTL&show_icons=true&theme=github_dark&hide_border=true"/>
-&nbsp;
-<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=michael-PSTL&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
-
----
-
 ## 🌐 Connect with me
 
 <div align="center">
+
 <a href="https://www.linkedin.com/in/michael-silva-67a74439b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/>
 </a>
+
 &nbsp;
+
 <a href="https://wa.me/5598984975025?text=Fiquei%20interessado%20no%20seu%20trabalho!" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=3fb950"/>
+<img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=22c55e"/>
 </a>
+
 &nbsp;
+
 <a href="https://www.instagram.com/mik.devcode/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=f78166"/>
+<img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=ffa07a"/>
 </a>
+
 </div>
 
 ---
