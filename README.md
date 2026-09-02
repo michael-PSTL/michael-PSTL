@@ -21,7 +21,7 @@ Passionate about technology and software development, focused on building modern
 ## 🛠️ Tools
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,githubr&theme=dark" />
 </div>
 
 ---
