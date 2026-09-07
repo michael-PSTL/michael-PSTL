@@ -13,7 +13,7 @@ Passionate about technology and software development, focused on building modern
 ## 🚀 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,spring,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,java,spring,mysql,python&theme=dark" />
 </div>
 
 ---
